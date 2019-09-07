@@ -2,6 +2,8 @@
 
 You can simply view our dashboard at http://nml-cloud-20.cs.sfu.ca/cryptointel/
 
+Video Demo URL: https://youtu.be/ouCQtGzxTME
+
 CryptoIntel is a one stop dashboard which gives all the information about cryptocurrencies. All the inquisitive users can get their answers related to cryptocurrencies from cryptointel.
 
 - Technologies: Python, Spark, MLlib, Cassandra, NLTK, Pandas, D3, Three.js, Oimo.js, Keras, Gensim, Matplotlib, Plotly, Scikit-learn, PHP and Android Studio
@@ -28,8 +30,3 @@ CryptoIntel is a one stop dashboard which gives all the information about crypto
 
 ### Our Dashboard
 ![DASHBOARD SCREENSHOT](dashboard_snapshot.png)
-
-### Contributors
-- Tushar Chand Kapoor
-- Mehak Parashar
-- Syed Ikram
